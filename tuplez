@@ -1,0 +1,8 @@
+tuplex=(1,2,22,34,56,12,5)
+print(tuplex)
+tuplex=tuplex[3:4]
+print(tuplex)
+tuplex=(9,575757)
+tuplex=tuplex+(9,93,2,92)
+print(tuplex)
+print(len(tuplex))
